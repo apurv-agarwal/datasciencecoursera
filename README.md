@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repositry made for Peer Gradede Assignment 
+Repositry made for Peer Gradeded Assignment 
